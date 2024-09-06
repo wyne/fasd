@@ -1,3 +1,11 @@
+> [!NOTE]
+> This is a fork of the original [clvv/fasd](https://github.com/clvv/fasd).
+> It's only purpose is to provide a brew formula for installation of the original `fasd` which has been archived.
+> 
+> Installation:
+>
+> `brew install wyne/tap/fasd`.
+
 # Fasd
 
 Fasd (pronounced similar to "fast") is a command-line productivity booster.
