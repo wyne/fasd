@@ -1,7 +1,10 @@
+> [!TIP]
+> A modern release of this is now available at [wyne/fasder](https://github.com/wyne/fasder)
+
 > [!NOTE]
 > This is a fork of the original [clvv/fasd](https://github.com/clvv/fasd).
 > It's only purpose is to provide a brew formula for installation of the original `fasd` which has been archived.
-> 
+>
 > Installation:
 >
 > `brew install wyne/tap/fasd`.
